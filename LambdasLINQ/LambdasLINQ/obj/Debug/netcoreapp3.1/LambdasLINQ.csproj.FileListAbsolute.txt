@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.exe
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.deps.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.runtimeconfig.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.runtimeconfig.dev.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\bin\Debug\netcoreapp3.1\LambdasLINQ.pdb
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\obj\Debug\netcoreapp3.1\LambdasLINQ.csprojAssemblyReference.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\obj\Debug\netcoreapp3.1\LambdasLINQ.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\obj\Debug\netcoreapp3.1\LambdasLINQ.AssemblyInfo.cs
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\obj\Debug\netcoreapp3.1\LambdasLINQ.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 5A - C# - In-Class Exercise - Lambdas and LINQ\LambdasLINQ\LambdasLINQ\obj\Debug\netcoreapp3.1\LambdasLINQ.pdb
